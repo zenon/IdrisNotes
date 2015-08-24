@@ -1,4 +1,6 @@
 *~
+*.out
+*.ibc
 
 # OSX
 .DS_Store
